@@ -48,24 +48,3 @@ watch(todos, () => {
 
 </template>
 
-<style scoped>
-.item-wrapper {
-  border: 1px solid #eee;
-  margin-bottom: 8px;
-  border-radius: 4px;
-}
-
-.item-header {
-  padding: 12px;
-  background-color: #f9f9f9;
-  cursor: pointer;
-  display: flex;
-  justify-content: space-between;
-}
-
-.item-content {
-  padding: 12px;
-  background-color: #fff;
-  border-top: 1px solid #eee;
-}
-</style>
